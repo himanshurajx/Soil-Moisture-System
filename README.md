@@ -50,14 +50,14 @@ This project demonstrates an Arduino-based Automatic Irrigation System that moni
 ### 📷 Soil Moisture and Water Pump System Image
 
 <p align="center">
-  <img src="Soil_Moisture" alt="Soil Moisture Test" width="30%" />
+  <img src="Soil_Moisture.jpeg" alt="Soil Moisture Test" width="30%" />
 </p>
 
 ---
 
 ## 📁 Files
 
-- [soil_moisture.ino](https://github.com/himanshurajx/Soil-Moisture-System/blob/main/soil_oisture_Code.ino)
+- [soil_moisture.ino](https://github.com/himanshurajx/Soil-Moisture-System/blob/main/soil_moisture.ino)
 
 
 
